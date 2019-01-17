@@ -1,5 +1,6 @@
 body
 {
+
 }
 
 .background-img
@@ -34,6 +35,29 @@ body
   color: white;
   padding-left: -50%;
   padding-right: -50%;
+}
+.hint
+{
+  position:relative;
+  float: left;
+  left: 5%;
+  width: 45%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding-left: -50%;
+  padding-right: -50%;
+}
+.image
+{
+  position:relative;
+  float: left;
+  left: 5%;
+  width: 45%;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  padding-left: -50%;
+  padding-right: -50%;
+  height:5%;
 }
 
 .bodytext {
