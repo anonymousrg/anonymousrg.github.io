@@ -24,17 +24,6 @@ body
   padding-left: -30%;
   padding-right: -30%;
 }
-
-.hint
-{
-  position:relative;
-  float: left;
-  left: 5%;
-  width: 45%;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: white;
-  padding-left: -50%;
-  padding-right: -50%;
 }
 .hint
 {
